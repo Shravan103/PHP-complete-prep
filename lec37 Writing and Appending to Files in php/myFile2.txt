@@ -1,0 +1,2 @@
+This is the best file on this planet.
+Please dont argue with me on this. This text will come after the above text.I am appending the new content to the file. Another one append.
